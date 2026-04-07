@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env
+credentials.json
+
+# Virtual environment
+venv/
+env/
+
+# Flask cache
+instance/
+*.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHP
+php/vendor/
+php/composer.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Tests
+tests/__pycache__/
